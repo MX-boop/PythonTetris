@@ -1,4 +1,4 @@
-#**_Python Tetris_**
+# **_Python Tetris_**
 
 | Thing       | Version              |
 | ----------- | ---------------------|
